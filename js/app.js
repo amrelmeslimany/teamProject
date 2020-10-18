@@ -64,22 +64,22 @@ $(document).ready(function() {
     const ourStoryJson = [{
             "date": "2008-2014",
             "img": "../public/Background_Imgs/1-min.jpg",
-            "contnet": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse dolorem modi provident atque eos quo consequuntur, aliquam asperiores facilis illum."
+            "contnet": "(Text Here)"
         },
         {
             "date": "2014-2016",
             "img": "../public/Background_Imgs/2-min.jpg",
-            "contnet": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse dolorem modi provident atque eos quo consequuntur."
+            "contnet": "(Text Here)"
         },
         {
             "date": "2016-2019",
             "img": "../public/Background_Imgs/3-min.jpg",
-            "contnet": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse dolorem modi providen."
+            "contnet": "(Text Here)."
         },
         {
             "date": "2019-Now",
             "img": "../public/Background_Imgs/4-min.jpg",
-            "contnet": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse dolorem modi provident atque eos quo consequuntur, aliquam asperiores facilis illum.Lorem ipsum dolor sit amet consectetur adipisicing elit."
+            "contnet": "(Text Here)"
         }
     ];
     ourstory_present_buttons.each(function() {
