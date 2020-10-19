@@ -63,22 +63,22 @@ $(document).ready(function() {
     // Presentarion
     const ourStoryJson = [{
             "date": "2008-2014",
-            "img": "../public/Background_Imgs/1-min.jpg",
+            "img": "../public/Our Story/1.jpg",
             "contnet": "(Text Here)"
         },
         {
             "date": "2014-2016",
-            "img": "../public/Background_Imgs/2-min.jpg",
+            "img": "../public/Our Story/2.jpg",
             "contnet": "(Text Here)"
         },
         {
             "date": "2016-2019",
-            "img": "../public/Background_Imgs/3-min.jpg",
+            "img": "../public/Our Story/3.jpg",
             "contnet": "(Text Here)."
         },
         {
             "date": "2019-Now",
-            "img": "../public/Background_Imgs/4-min.jpg",
+            "img": "../public/Our Story/4.jpg",
             "contnet": "(Text Here)"
         }
     ];
