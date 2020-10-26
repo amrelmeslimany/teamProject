@@ -134,6 +134,11 @@ p {
 #fullpage .services .catch-content .first-side li {
   font-size: 0.9rem;
 }
+@media (max-width: 576px) {
+  #fullpage .services .catch-content .first-side li {
+  text-align:left;
+  }
+}
 
 #fullpage .services .catch-content .first-side a {
   font-size: 0.8rem;
