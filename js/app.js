@@ -64,22 +64,22 @@ $(document).ready(function() {
     const ourStoryJson = [{
             "date": "2008-2014",
             "img": "../public/Our Story/1.jpg",
-            "contnet": "(Text Here)"
+            "contnet": " Vanilla, affiliated to Bahr E-Commerce Company, is one of the most famous Saudi websites interested in fashion and fashion, supervised by a distinguished team of specialized Saudi youth who travel around the world in search of the best products and international brands."
         },
         {
             "date": "2014-2016",
             "img": "../public/Our Story/2.jpg",
-            "contnet": "(Text Here)"
+            "contnet": "Vanilla was launched in 2011 and now serves nearly 60,000 customers and has more than 8,000 original products."
         },
         {
             "date": "2016-2019",
             "img": "../public/Our Story/3.jpg",
-            "contnet": "(Text Here)."
+            "contnet": "Vanilla is characterized by many features that made it at the top of the list of Saudi electronic stores, including the feature of exchange, return, payment on receipt, express delivery to all regions of the Kingdom, and original products."
         },
         {
             "date": "2019-Now",
             "img": "../public/Our Story/4.jpg",
-            "contnet": "(Text Here)"
+            "contnet": "Vanilla participated in e-commerce exhibitions, the most recent of which was Clilk Boulevard, which was held in Riyadh in 2014."
         }
     ];
     ourstory_present_buttons.each(function() {
